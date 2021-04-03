@@ -1,0 +1,40 @@
+.shop {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.header {
+    display: flex;
+    flex: 1;
+    border: 1px solid grey;
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    border: 1px solid grey;
+    margin: 10px;
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    margin: 10px;
+
+}
+.content {
+    display: flex;
+    flex: 1;
+    border: 1px solid grey;
+    margin: 10px;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+    border: 1px solid grey;
+    margin: 10px;
+}
