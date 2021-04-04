@@ -40,7 +40,7 @@ const products = [
 ];
 
 const Products = () => {
-  const handleClick = () => console.log("hello");
+  
 
   return (
     <div className="products">

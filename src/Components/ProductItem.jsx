@@ -32,7 +32,7 @@ const ProductItem = ({ product }) => {
     <li className={classes.item}>      
       <CardActionArea>
       <Card className={classes.card}>
-          <img src={product.img} />
+          <img src={product.img} alt="img"/>
           <p>name: {product.name}</p>
           <p>price: {product.price}</p>
           <p>count: {product.count}</p>
